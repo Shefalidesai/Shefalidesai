@@ -3,7 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://shefaliportfolio.netlify.app/](https://shefaliportfolio.netlify.app/)
 
-- 📝 I write articles on [https://medium.com/@shefali.](https://medium.com/@shefali.) , [https://auth.geeksforgeeks.org/user/desaishefali50/articles](https://auth.geeksforgeeks.org/user/desaishefali50/articles)
+- 📝 I write articles on [https://medium.com/@shefali.](https://medium.com/@shefali.)
+  
 - 📧 Reach me at : [desaishefali507@gmail.com](desaishefali507@gmail.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
