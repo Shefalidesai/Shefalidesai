@@ -3,8 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://shefaliportfolio.netlify.app/](https://shefaliportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@shefali.](https://medium.com/@shefali.)
-- Reach me at : [desaishefali507@gmail.com](desaishefali507@gmail.com)
+- 📝 I write articles on [https://medium.com/@shefali.](https://medium.com/@shefali.) , [https://www.geeksforgeeks.org/how-to-get-multiple-counts-with-one-sql-query/](https://www.geeksforgeeks.org/how-to-get-multiple-counts-with-one-sql-query/)
+- 📧 Reach me at : [desaishefali507@gmail.com](desaishefali507@gmail.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shefali-sd16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shefali-sd16/" height="30" width="40" /></a>
