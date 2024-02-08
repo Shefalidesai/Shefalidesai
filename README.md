@@ -6,9 +6,10 @@
 - 📝 I write articles on <a href="https://medium.com/https://medium.com/@shefali." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shefali." height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/desaishefali50/articles" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/desaishefali50/articles" height="30" width="40" /></a>
   
-- 📧 Reach me at : [desaishefali507@gmail.com](desaishefali507@gmail.com) , <p >
+- 📧 Reach me at :
+ [desaishefali507@gmail.com](desaishefali507@gmail.com)
+ <p align="left" >
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shefali-sd16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shefali-sd16/" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
