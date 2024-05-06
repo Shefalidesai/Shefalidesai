@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shefali</h1>
 <h3 align="center">I 'am passionate Frontend/Full-Stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://shefaliportfolio.netlify.app/](https://shefaliportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shefaliportfolio.vercel.app/)
 
 - 📝 I write articles on <a href="https://medium.com/https://medium.com/@shefali." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shefali." height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/desaishefali50/articles" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/desaishefali50/articles" height="30" width="40" /></a>
